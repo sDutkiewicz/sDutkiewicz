@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dudzioszek
-- 👀 I’m interested in c++ programming
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on anyone who is willing to cooperate :)
 - 📫 How to reach me discord: StanTheMan#8960
 
