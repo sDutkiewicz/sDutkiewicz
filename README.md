@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dudzioszek
+- 👋 Hi, I’m Stanisław Dutkiewicz from Poland/Latvia 🇵🇱/🇱🇻
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on anyone who is willing to cooperate :)
